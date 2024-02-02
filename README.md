@@ -1,4 +1,4 @@
-# webrestaurantstore-assessment
+# webstaurantstore-assessment
 
 Task:
 Create a Maven-based Java or Groovy project and automate the test case described below. Once
